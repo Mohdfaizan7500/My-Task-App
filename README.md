@@ -46,7 +46,7 @@ Expo Notifications
 To deploy this project run
 
 ```bash
-  git clone https://github.com/yourusername/taskmaster-app.git
+  git clone https://github.com/Mohdfaizan7500/My-Task-App.git
 ```
 
 2.Install dependencies
@@ -132,4 +132,4 @@ For questions or suggestions, please contact:
 
 Your Name - faizanpatha34@gmail.com
 
-Project Link - https://github.com/yourusername/taskmaster-app
+Project Link - https://github.com/Mohdfaizan7500/My-Task-App.git
